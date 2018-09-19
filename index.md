@@ -1,7 +1,7 @@
 IxD Shared Resources
 ====================
 
-The following content represents a list of useful resources students on the [BDes Hons Interaction Design](http://ixdbelfast.org) (IxD)course have found useful during their time on the course.
+The following content represents a list of useful resources students on the [BDes Hons Interaction Design](http://ixdbelfast.org) (IxD) course have found useful during their time on the course.
 
 The links below provide a living resource for not only IxD but any one involved in the design industry.
 
@@ -37,6 +37,10 @@ Typography
 
 ---
 
+Design History
+--------------
+
+---
 
 Colour
 ------
@@ -45,11 +49,24 @@ Colour
 - [COLOURlovers](http://www.colourlovers.com)
 - [Color](http://color.hailpixel.com)
 - [Pigment](https://pigment.shapefactory.co)
+- [Khroma](http://khroma.co/) – AI colour tool for designers
 
 ### Books
 - [Josef Albers](http://www.albersfoundation.org/teaching/josef-albers/introduction) 
 - [Designing for the Web](http://designingfortheweb.co.uk)
 
+---
+
+User Experience (UX)
+--------------------
+
+- [Universal Principles Of User Experience Design](https://www.smashingmagazine.com/2018/01/universal-principles-ux-design/)
+- [UX Storytelling For A Better User Experience - Part One](https://www.smashingmagazine.com/2010/01/better-user-experience-using-storytelling-part-one/)
+- [Better User Experience With Storytelling – Part 2](https://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/)
+- [Ten Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+User Interface Design (UI)
+--------------------------
 
 ---
 
@@ -100,17 +117,7 @@ JavaScript
 
 ---
 
-User Experience (UX)
---------------------
 
-- [Universal Principles Of User Experience Design](https://www.smashingmagazine.com/2018/01/universal-principles-ux-design/)
-- [UX Storytelling For A Better User Experience - Part One](https://www.smashingmagazine.com/2010/01/better-user-experience-using-storytelling-part-one/)
-- [Better User Experience With Storytelling – Part 2](https://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/)
-
-User Interface Design (UI)
---------------------------
-
----
 
 Curated by [Paul McCormack](https://twitter.com/eleventhirty)
 
