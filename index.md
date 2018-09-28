@@ -39,6 +39,14 @@ Typography
 
 Design History
 --------------
+### Websites
+- [Design is History](http://www.designishistory.com)
+- [Design History](http://www.designhistory.org)
+- [A brief history of graphic design](https://99designs.co.uk/blog/design-history-movements/history-graphic-design)
+
+### Books
+- [Graphic Design, A History](https://amzn.to/2Dv29Ri)
+- [Megg’s History of Graphic Design](https://amzn.to/2N1LPqI)
 
 ---
 
@@ -109,11 +117,6 @@ CSS
 - [Responsive Design Patterns](http://abookapart.com/products/responsive-design-patterns-principles)
 - [CSS3 for Web Designers](http://abookapart.com/products/css3-for-web-designers)
 
-
----
-
-JavaScript
-----------
 
 ---
 
