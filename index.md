@@ -11,6 +11,7 @@ News and Articles
 -----------------
 - [Smashing Magazine](https://www.smashingmagazine.com)
 - [Creative Bloq](https://www.creativebloq.com)
+- [99u](https://99u.adobe.com/)
 - [A List Apart](https://alistapart.com)
 - [Nielsen Norman Group](https://www.nngroup.com)
 - [Fast Company](https://www.fastcompany.com)
