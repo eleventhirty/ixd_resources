@@ -9,10 +9,11 @@ If there are resources that you cannot do without [please get in touch](https://
 
 News and Articles
 -----------------
-- [A List Apart](https://alistapart.com)
-- [Fast Company](https://www.fastcompany.com)
-- [Nielsen Norman Group](https://www.nngroup.com)
+- [Smashing Magazine](https://www.smashingmagazine.com)
 - [Creative Bloq](https://www.creativebloq.com)
+- [A List Apart](https://alistapart.com)
+- [Nielsen Norman Group](https://www.nngroup.com)
+- [Fast Company](https://www.fastcompany.com)
 
 Learning
 --------
