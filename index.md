@@ -114,6 +114,9 @@ Colour
 - [Material Colour Pallet Generator](https://www.materialpalette.com)
 - [Gradient Generator](https://uigradients.com/#Windy)
 
+### Articles
+- [How to Design for Color Blindness](https://usabilla.com/blog/how-to-design-for-color-blindness/)
+
 ### Books
 - [Josef Albers](http://www.albersfoundation.org/teaching/josef-albers/introduction) 
 - [Designing for the Web](http://designingfortheweb.co.uk)
@@ -136,7 +139,7 @@ User Experience (UX)
 
 User Interface Design (UI)
 --------------------------
-
+- [codrops](https://tympanus.net/codrops/2019/04/04/inspirational-websites-roundup-3/)
 - [Graphic Burger](https://graphicburger.com/ui-kits)
 - [Daily UI](http://www.dailyui.co)
 - [Sketch App Sources](https://www.sketchappsources.com/category/ui.html)
