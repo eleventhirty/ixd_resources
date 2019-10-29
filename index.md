@@ -64,7 +64,7 @@ HTML
 - [HTML5 Doctor](http://html5doctor.com/)
 - [codecademy](http://www.codecademy.com) – online tutorials on HTML, CSS and much more.
 - [The Difference Between Block-level and Inline Elements](http://www.impressivewebs.com/difference-block-inline-css/)
-
+- [MDN Introduction to HTML](https://github.com/mdn/learning-area/tree/master/html/introduction-to-html)
 ### Books
 + [HTML5 for Web Designers](http://abookapart.com/products/html5-for-web-designers)
 + [CSS3 for Web Designers](http://abookapart.com/products/css3-for-web-designers)
