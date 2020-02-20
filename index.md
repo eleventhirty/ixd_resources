@@ -16,14 +16,15 @@ News and Articles
 - [Nielsen Norman Group](https://www.nngroup.com)
 - [Fast Company](https://www.fastcompany.com)
 
-Learning
---------
+Learning/Process
+----------------
 - [Teaching to See](http://teachingtosee.org/film/TeachingToSee.html)
 - [Visual Grammar](http://amzn.to/2EIUKxm)
 - [Apple Design Resources](https://developer.apple.com/design/resources)
 - [Level Up Tuts](https://www.youtube.com/user/LevelUpTuts/videos)
 - [Don't Fear the Internet](http://www.dontfeartheinternet.com)
 - [Lapa Books](https://www.lapabooks.com)
+- [Design System Checklist](https://designsystemchecklist.com)
 
 ---
 
@@ -35,15 +36,20 @@ Typography
 - [Google Fonts](https://fonts.google.com/)
 - [Font Fabric](https://www.fontfabric.com)
 - [Font Flame](http://fontflame.com)
-- [Mix Font](https://www.mixfont.com)   
+- [Mix Font](https://www.mixfont.com) 
+- [Typewolf](https://www.typewolf.com)  
+- [Butterick’s Practical Typography](https://practicaltypography.com)
+- [FontShop](https://www.fontshop.com/glossary)
+- [Professional Web Typography](https://prowebtype.com/history/)
 - [Typecast](http://typecast.com)
+
 
 
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net)
 - [Typographica](http://typographica.org)
 - [Thinking With Type](http://www.thinkingwithtype.com)
 - [Ministry of Type](http://ministryoftype.co.uk)
-- [8 Faces](http://8faces.com)
+- [8 Faces](https://blog.8faces.com)
 
 ### Books
 - [Web Typography](http://book.webtypography.net/)
@@ -54,6 +60,38 @@ Typography
 - [Detail in Typography.](http://www.amazon.co.uk/exec/obidos/ASIN/0907259340/monographic-21)
 
 ---
+
+User Experience (UX)
+--------------------
+
+- [Universal Principles Of User Experience Design](https://www.smashingmagazine.com/2018/01/universal-principles-ux-design/)
+- [UX Storytelling For A Better User Experience - Part One](https://www.smashingmagazine.com/2010/01/better-user-experience-using-storytelling-part-one/)
+- [Better User Experience With Storytelling – Part 2](https://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/)
+- [Ten Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- [Click Tracking, heat maps and A/B Tests](https://www.hotjar.com)
+- [Tree tests, Card sorts, preference test](https://www.optimalworkshop.com)
+- [User Testing](https://www.usertesting.com)
+- [User Testing – What Users Do](https://www.whatusersdo.com)
+- [Surveys](https://www.typeform.com)
+- [Google Forms](https://www.google.co.uk/forms/about)
+
+User Interface Design (UI)
+--------------------------
+- [UI Movement](https://uimovement.com)
+- [Pageflows](https://pageflows.com)
+- [codrops](https://tympanus.net/codrops/2019/04/04/inspirational-websites-roundup-3/)
+- [Graphic Burger](https://graphicburger.com/ui-kits)
+- [Daily UI](http://www.dailyui.co)
+- [Sketch App Sources](https://www.sketchappsources.com/category/ui.html)
+- [Pixel Surplus](https://www.pixelsurplus.com)
+- [Snowfallen Stories](https://docs.google.com/spreadsheets/d/1NnTg-KfmEpWeLtCm7zMK-THWyzHIDdaeWaoYtQMAyPQ/edit#gid=0)
+
+---
+
+Markdown
+--------
+### Websites 
+- [CommonMark](https://commonmark.org)
 
 HTML
 ----
@@ -85,6 +123,7 @@ CSS
 - [CSS3 Generator](http://css3generator.com/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Using CSS Flexible Boxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+- [CSS Animations](https://cssanimation.rocks)
 
 ### Books
 
@@ -106,6 +145,7 @@ Colour
 - [Khroma](http://khroma.co/) – AI colour tool for designers
 - [Picular](https://picular.co)
 - [Machine Learning Colour Pallet Generator](http://khroma.co/train)
+- [Sip](https://sipapp.io/)
 
 
 - [Color Safe Accessibility Checker](http://colorsafe.co)
@@ -123,27 +163,7 @@ Colour
 
 ---
 
-User Experience (UX)
---------------------
 
-- [Universal Principles Of User Experience Design](https://www.smashingmagazine.com/2018/01/universal-principles-ux-design/)
-- [UX Storytelling For A Better User Experience - Part One](https://www.smashingmagazine.com/2010/01/better-user-experience-using-storytelling-part-one/)
-- [Better User Experience With Storytelling – Part 2](https://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/)
-- [Ten Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
-- [Click Tracking, heat maps and A/B Tests](https://www.hotjar.com)
-- [Tree tests, Card sorts, preference test](https://www.optimalworkshop.com)
-- [User Testing](https://www.usertesting.com)
-- [User Testing – What Users Do](https://www.whatusersdo.com)
-- [Surveys](https://www.typeform.com)
-- [Google Forms](https://www.google.co.uk/forms/about)
-
-User Interface Design (UI)
---------------------------
-- [codrops](https://tympanus.net/codrops/2019/04/04/inspirational-websites-roundup-3/)
-- [Graphic Burger](https://graphicburger.com/ui-kits)
-- [Daily UI](http://www.dailyui.co)
-- [Sketch App Sources](https://www.sketchappsources.com/category/ui.html)
-- [Pixel Surplus](https://www.pixelsurplus.com)
 
 ---
 
@@ -153,6 +173,7 @@ Design History
 - [Design is History](http://www.designishistory.com)
 - [Design History](http://www.designhistory.org)
 - [A brief history of graphic design](https://99designs.co.uk/blog/design-history-movements/history-graphic-design)
+- [Readymag](https://stories.readymag.com/)
 
 ### Books
 - [Graphic Design, A History](https://amzn.to/2Dv29Ri)
@@ -169,6 +190,10 @@ Stock Photography
 - [Pexels](https://www.pexels.com)
 
 ---
+
+Inspiration
+-----------
+- [Awwwards](https://www.awwwards.com)
 
 
 
