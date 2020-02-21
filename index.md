@@ -192,7 +192,6 @@ Inspiration
 - [Awwwards](https://www.awwwards.com)
 
 
-
 Curated by [Paul McCormack](https://twitter.com/eleventhirty)   
 
 Contributors: [Kyle Boyd](https://twitter.com/kylbyd), [Chris Murphy](https://twitter.com/fehler), Kelsey Campbell Bones
