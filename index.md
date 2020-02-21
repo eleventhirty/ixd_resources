@@ -163,10 +163,6 @@ Colour
 
 ---
 
-
-
----
-
 Design History
 --------------
 ### Websites
